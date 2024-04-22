@@ -8,7 +8,7 @@
 本脚本适用于Windows、Linux和Mac。
 ![image](https://github.com/xc1984759471/video-merger/assets/53083866/ca4aeb7f-cab0-4af7-8a3a-7e6d924d9a14)
 # 依赖关系
-ffmpeg（**重要**）：用于合并视频的后端程序（需要添加至PATH变量目录中，Linux/Mac可通过apt、yum、pacman、brew等方式安装）
+[ffmpeg](https://ffmpeg.org/)（**重要**）：用于合并视频的后端程序（需要添加至PATH变量目录中，Linux/Mac可通过apt、yum、pacman、brew等方式安装）
 
 python3
 
